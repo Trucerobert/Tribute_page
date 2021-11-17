@@ -1,0 +1,57 @@
+#main {
+    background-color: black;
+  }
+  #title {
+    color: silver;
+    font-size: 50px;
+    text-align: center;
+  }
+    #h2 {
+      color: silver;
+      text-align: center;
+      font-family: garamond;
+      font-style: italic;
+  }
+    #image {
+      max-width: 100%;
+      height: auto;
+      width: 500px;
+      border-radius: 20%;
+      border: solid;
+      border-width: 5px;
+      border-color: black;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+    #img-caption {
+      text-align: center;
+      color: silver;
+      font-family: courier;
+      font-style: italic;
+  }
+  #tribute-info {
+    color: silver;
+    text-align: center;
+  }
+  #achievements {
+    color: silver;
+    text-align: center;
+  }
+  .lists-group {
+    color: silver;
+    list-style-position: outside;
+    padding: 10px 0px;
+  }
+  .quote {
+    color: silver;
+    text-align: center;
+    font-style: italic;
+  }
+  #tribute-link {
+    color: white;
+    text-align: center;
+  }
+  a:hover {
+    background-color: blue;
+  }
